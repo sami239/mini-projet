@@ -3,25 +3,35 @@
 
 ## Présentation
 
-ceci est un prototype de projet en analyse de donnée
+ceci est un presentation de projet en analyse de donnée
 on a utilisé la bibliothèque pandas
 
-<img src='img/pandas.png' width=80px>
+<img src='image/pandans.png' width=100px>
+
+<img src='image/numpy.png' width=100px>
+
+<img src='image/matplot.svg' width=100px>
 
 ## :file_folder: Dataset 
+<img src='image/dataset1.png' >
 
-le data set contient des données dates
-|   userid | date                |   valeurs |
-|---------:|:--------------------|----------:|
-|        1 | 2017-01-01 00:00:00 |        94 |
-|        2 | 2017-01-02 00:00:00 |         4 |
-|        3 | 2017-01-03 00:00:00 |        83 |
-|        4 | 2018-01-01 00:00:00 |         4 |
-|        5 | 2018-01-02 00:00:00 |        96 |
+<img src='image/dataset2.png' >
 
 ## Analyse
+<h1>full Dataset,Filtering and Reproducibility</h1>
+:point_right:
 
+id              |  1326
+
+market_cap_usd   | 1031
+
+dtype: int64
+
+<h1> 4. How big is Bitcoin compared with the rest of the cryptocurrencies?</h1>
+<img src='image/graph1.png' >
 
 ## Conclusion 
 
-
+<h1>10. Most coins are tiny</h1>
+<p>Note that many coins are not comparable to large companies in market cap, so let's divert from the original Investopedia definition by merging categories.</p>
+<p><em>This is all for now. Thanks for completing this project!</em></p>
