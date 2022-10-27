@@ -1,5 +1,5 @@
 # mini_projet_GLA
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini-projet/main?filepath=notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini-projet/master?filepath=notebook.ipynb)
 
 ## Présentation
 
