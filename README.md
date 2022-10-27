@@ -18,7 +18,7 @@ on a utilisé la bibliothèque pandas
 <img src='image/dataset2.png' >
 
 ## Analyse
-:point_right:<h1>full Dataset,Filtering and Reproducibility</h1>
+<h1>:point_right:full Dataset,Filtering and Reproducibility</h1>
 
 
               id              |  1326
@@ -27,7 +27,7 @@ on a utilisé la bibliothèque pandas
 
              dtype: int64
 
-:point_right:<h1> 4. How big is Bitcoin compared with the rest of the cryptocurrencies?</h1>
+<h1> :point_right:4. How big is Bitcoin compared with the rest of the cryptocurrencies?</h1>
 <img src='image/graph1.png' >
 
 ## :white_check_mark:Conclusion 
