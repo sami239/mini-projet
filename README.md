@@ -1,5 +1,5 @@
 # Mini_Projet
-<img src='image/bitcoin.jpeg'>
+<img src='image/bitcoin.jpeg' width='80%' >
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini-projet/master?filepath=notebook.ipynp)
 
