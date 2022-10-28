@@ -19,8 +19,8 @@ on a utilisé la bibliothèque pandas
 
 <img src='image/dataset2.png' >
 
-## Analyse
-<h1>:point_right:full Dataset,Filtering and Reproducibility</h1>
+# Analyse
+## :point_right:full Dataset,Filtering and Reproducibility</
 
 
              id              |  1326
@@ -29,11 +29,11 @@ on a utilisé la bibliothèque pandas
 
              dtype: int64
 
-<h1> :point_right:4. How big is Bitcoin compared with the rest of the cryptocurrencies?</h1>
+## :point_right: How big is Bitcoin compared with the rest of the cryptocurrencies?
 <img src='image/graph1.png' >
 
-## :white_check_mark:Conclusion 
+# :white_check_mark:Conclusion 
 
-<h1>10. Most coins are tiny</h1>
+##  Most coins are tiny :
 <p>Note that many coins are not comparable to large companies in market cap, so let's divert from the original Investopedia definition by merging categories.</p>
 <p><em>This is all for now. Thanks for completing this project!</em></p>
