@@ -1,4 +1,6 @@
-# mini_projet_GLA
+# Mini_Projet
+<img src='image/bitcoin.jpeg'>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini-projet/master?filepath=notebook.ipynp)
 
 ## Présentation
@@ -21,9 +23,9 @@ on a utilisé la bibliothèque pandas
 <h1>:point_right:full Dataset,Filtering and Reproducibility</h1>
 
 
-              id              |  1326
+             id              |  1326
 
-             market_cap_usd   | 1031
+             market_cap_usd  | 1031
 
              dtype: int64
 
