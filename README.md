@@ -1,5 +1,6 @@
 # Mini_Projet
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sami239/mini-projet/master?filepath=notebook.ipynb)
+
 <img src='image/bitcoin.jpeg' width='80%' >
 
 
