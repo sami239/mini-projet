@@ -22,12 +22,6 @@ on a utilisé la bibliothèque pandas
 <img src='image/dataset2.png' >
 
 # Analyse
-## Introduction to bintcoin
-Le Bitcoin représente à la fois un concept, un logiciel, un protocole mais aussi une "monnaie électronique" qui fascine et affole. Son créateur se cache sous le pseudonyme de Satoshi Nakamoto qui, pour certains, serait le groupement de Samsung, Toshiba, Nakamichi et Motorola tandis que pour d'autres ce serait un mathématicien surdoué ou encore un économiste finlandais. 
-
-Créé en 2009, le Bitcoin est une "monnaie électronique" décentralisée basée sur un système "peer to peer" et dont les unités sont créées à partir d'un algorithme mathématique. Les utilisateurs peuvent ainsi échanger des Bitcoins dans le monde entier via le réseau internet, sans passer par un tiers de confiance. Pour certains, il constitue un moyen de paiement, pour d'autres, le Bitcoin est un produit de spéculation.
-
- Le statut juridique du Bitcoin fait débat. Toutefois, pour la présentation de ce TPE, nous qualifierons le Bitcoin de "monnaie électronique" ou numérique.
 ## :point_right:full Dataset,Filtering and Reproducibility
 
 
